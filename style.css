@@ -1,5 +1,4 @@
-body{
-    background-color:green;
+body{    background-color:green;
     color: white;
     height: 100%;
 }
@@ -8,3 +7,13 @@ footer{
     justify-content: center;
     align-items:flex-end;
 }
+h1{
+    display: flex;
+    justify-self: center;
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: row; 
+}
+
