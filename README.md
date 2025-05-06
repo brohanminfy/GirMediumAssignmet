@@ -22,12 +22,12 @@
 
 <h3>Feature 2 Merging</h3>
 
-![alt text](f2MergeConflict.png)
+![alt text](f2MergeConflitct.png)
 
 <h3>Feature 2 Merge Conflict</h3>
 
 
-![alt text](f2MergeConflictMessage.png)
+![alt text](f2MergeConflitcMessage.png)
 
 <h3>Resolving Merge Conflict</h3>
 
